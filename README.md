@@ -38,12 +38,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakkarode&show_icons=true&theme=radical)
-
----
-
 ## 🧠 Current Focus
 
 - 🌱 Exploring **DevOps tools** and **Web3 development**
