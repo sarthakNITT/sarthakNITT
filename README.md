@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sarthak Karode
 
-🚀 Full Stack Web & App Developer | 📱 Application Developer at [@spider R&D](https://github.com/spider-nitt)  
-🔧 Exploring DevOps & Web3 | 🌍 Aggressively contributing to open source  
-📦 Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
+Full Stack Web & App Developer | Application Developer at [@spider R&D](https://github.com/spider-nitt)  
+Exploring DevOps & Web3 | Aggressively contributing to open source  
+Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 
 ---
 
@@ -38,19 +38,19 @@
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
-- 🌱 Exploring **DevOps tools** and **Web3 development**
-- 💻 Building scalable **full-stack** apps
-- 🤝 Actively looking for **open source projects** to contribute to
+- Exploring **DevOps tools** and **Web3 development**
+- Building scalable **full-stack** apps
+- Actively looking for **open source projects** to contribute to
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-karode-5216542bb)
 
 ---
 
-_Thanks for visiting my profile! Let's build something awesome together 💻🚀_
+_Thanks for visiting my profile! Let's build something awesome together_
 
