@@ -84,10 +84,4 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 
 ---
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-karode-5216542bb)
-
----
-
 _Thanks for visiting my profile! Let's build something awesome together_
