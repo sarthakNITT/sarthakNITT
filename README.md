@@ -55,7 +55,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**DevOps & Cloud:**  
+**DevOps & Cloud:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -67,7 +67,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Package Managers & Tools:**  
+**Package Managers & Tools:**
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
@@ -79,8 +79,8 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ## Current Focus
 
 - Exploring **DevOps tools** and **Web3 development**
-- Building scalable **full-stack** apps
-- Actively looking for **open source projects** to contribute to
+- Building scalable **full-stack** apps, **developer tools**, **packages** and **SaaS products**
+- Actively looking for **open source projects** to contribute.
 
 ---
 
