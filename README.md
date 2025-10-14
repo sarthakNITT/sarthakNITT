@@ -27,7 +27,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
-**Backend & Databases:**  
+**Backend & Databases:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -40,7 +40,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Authentication & APIs:**  
+**Authentication & APIs:**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-2C6EBF?style=flat&logo=oauth&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -48,7 +48,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white)
 
-**Data Science & ML:**  
+**Data Science & ML:**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
