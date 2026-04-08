@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Sarthak Karode
 
-Full Stack Web & App Developer | Application Developer at [@spider R&D](https://github.com/spider-nitt)
-Exploring DevOps & Web3 | Aggressively contributing to open source
-Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
+Full Stack Web & App Developer | Application Developer at [@spider R&D](https://github.com/spider-nitt)  
+Exploring DevOps & Web3 | Aggressively contributing to open source  
+Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)  
+
+🏆 Winner of DeveloperWeek 2026 Hackathon (with Cline, Kilo & you.com)
 
 ---
 
@@ -16,6 +18,8 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,6 +40,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
