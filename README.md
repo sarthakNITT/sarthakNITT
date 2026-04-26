@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sarthak Karode
 
-Full Stack Web & App Developer | Application Developer at [@spider R&D](https://github.com/spider-nitt)  
+Full Stack Web & App Developer | Application Developer at [@spider R&D](https://github.com/spider-nitt)
 Exploring DevOps & Web3 | Aggressively contributing to open source  
 Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)  
 
