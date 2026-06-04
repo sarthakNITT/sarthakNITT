@@ -86,7 +86,7 @@ Author of [`auto-dep-install`](https://www.npmjs.com/package/auto-dep-install)
 
 - Exploring **DevOps tools** and **Web3 development**
 - Building scalable **full-stack** apps, **developer tools**, **packages** and **SaaS products**
-- Actively looking for **open source projects** to contribute.
+- Actively looking for **open source projects** to contribute. 
 
 ---
 
